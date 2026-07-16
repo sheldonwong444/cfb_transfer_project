@@ -6,7 +6,7 @@
 (https://public.tableau.com/app/profile/sheldon.wong/viz/WR2024TransferAnalysisPart2/Dashboard1)
 
 ## Project Overview
-An advanced analytical study evaluating 2025 transfer receivers against 1) all CFB receivers in 2024 and 2) all CFB transfer receivers in 2024, in order to determine the metrics that best predict portal success at this position
+An advanced analytical study evaluating 2025 transfer receivers against 1) all CFB receivers in 2024 and 2) all CFB transfer receivers in 2024, in order to determine the metrics that best predict portal success at this position. I picked player-specific stats aggregated from  PFF play and charted passing data that were unavailable at the individual player level in PFF itself, and engineered the data to visualize performance metrics. 
 
 ## Tech Stack & Architecture
 * **Python**: Extracted raw play-by-play data and cleaned portal transfer records.
