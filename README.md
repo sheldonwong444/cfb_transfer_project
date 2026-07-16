@@ -15,7 +15,6 @@ An advanced analytical study evaluating 2025 transfer receivers against 1) all C
 
 ## Key Insights & Visualizations
 ![Dashboard Overview](dashboard/dashboard_preview.png)
-
 1. **Insight 1**: Most likely successful transfers lie between 35 and 60 percent success rate with no more than -0.7 EPA per non-explosive target .
 2. **Insight 2**: Successful transfers are players who are not "high-floor", in that they have more variance in their statistical profile. However, there is no correlation between overall production (EPA or yardage), and transfer success. 
 3. **Insight 3**: To identify transfers, look for outside top third in EPA and success rate. Players higher will likely be retained by their  teams or go pro. Successful transfers are players who are not "high-floor", in that they have more variance in their statistical profile. Identify players with high variance (high explosive EPA/target, low non/explosive EPA/target) who may be undervalued. Then use film or other non-analtyical methods to identify those who could have their variance land on the right side of the coin.
