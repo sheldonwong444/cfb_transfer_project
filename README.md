@@ -1,6 +1,6 @@
 # College Football Transfer Analysis, Receivers
 
-[**Live Interactive Tableau Dashboard**]
+[**Live Interactive Tableau Dashboard- Click Full Screen on Each**]
 (https://public.tableau.com/app/profile/sheldon.wong/viz/WRTransferDashboardPart1/Dashboard1)
 (https://public.tableau.com/app/profile/sheldon.wong/viz/WR2024TransferAnalysisPart1/Dashboard1)
 (https://public.tableau.com/app/profile/sheldon.wong/viz/WR2024TransferAnalysisPart2/Dashboard1)
