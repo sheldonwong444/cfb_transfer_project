@@ -1,0 +1,75 @@
+target_name,targets,EPA,EPA_per_target,success,success_rate,explosive,explosive_rate,explosive_epa_per_target,non_explosive_epa_per_target,catches,yards,position,origin,destination
+Trebor Pena,117,53.473,0.457,69,0.5897,43,0.3675,2.0817,-0.487,91,1054,WR,Syracuse,Penn State
+Kevin Coleman Jr.,111,58.18,0.5241,65,0.5856,41,0.3694,2.34,-0.5394,77,945,WR,Mississippi State,Missouri
+Malachi Fields,102,27.15,0.2662,52,0.5098,34,0.3333,2.2715,-0.7365,57,829,WR,Virginia,Notre Dame
+Dane Key,98,6.262,0.0639,45,0.4592,36,0.3673,2.2725,-1.2185,49,773,WR,Kentucky,Nebraska
+De'Zhaun Stribling,97,26.461,0.2728,52,0.5361,39,0.4021,2.1565,-0.9938,54,919,WR,Oklahoma State,Ole Miss
+KC Concepcion,96,-20.139,-0.2098,44,0.4583,25,0.2604,2.0796,-1.0159,55,491,WR,NC State,Texas A&M
+Eric Singleton Jr.,95,11.177,0.1177,46,0.4842,30,0.3158,2.259,-0.8707,57,760,WR,Georgia Tech,Auburn
+Isaiah Horton,90,33.526,0.3725,51,0.5667,33,0.3667,1.9081,-0.5165,61,706,WR,Miami,Alabama
+Hudson Clement,85,50.385,0.5928,51,0.6,35,0.4118,2.3817,-0.6595,52,792,WR,West Virginia,Illinois
+Harrison Wallace III,82,40.096,0.489,46,0.561,36,0.439,2.3004,-0.9287,47,739,WR,Penn State,Ole Miss
+Horatio Fields,79,-9.155,-0.1159,37,0.4684,21,0.2658,1.9649,-0.8693,44,581,WR,Wake Forest,Auburn
+Will Pauling,78,-6.422,-0.0823,35,0.4487,21,0.2692,1.8345,-0.7885,43,423,WR,Wisconsin,Notre Dame
+Max Klare,77,20.278,0.2634,40,0.5195,34,0.4416,2.2078,-1.2741,54,728,TE,Purdue,Ohio State
+Noah Thomas,77,17.066,0.2216,36,0.4675,25,0.3247,2.2178,-0.7381,39,574,WR,Texas A&M,Georgia
+Zachariah Branch,76,-16.008,-0.2106,36,0.4737,22,0.2895,1.8581,-1.0535,48,505,WR,USC,Georgia
+Emmett Mosley V,75,11.061,0.1475,37,0.4933,25,0.3333,2.162,-0.8598,50,541,WR,Stanford,Texas
+Tony Johnson,70,23.514,0.3359,38,0.5429,29,0.4143,1.8627,-0.744,48,448,WR,Cincinnati,Miami
+Nyziah Hunter,66,43.959,0.666,42,0.6364,32,0.4848,1.9493,-0.5417,43,589,WR,California,Nebraska
+Deuce Alexander,66,14.414,0.2184,34,0.5152,23,0.3485,1.8634,-0.6615,36,400,WR,Wake Forest,Ole Miss
+Kyron Hudson,65,1.124,0.0173,33,0.5077,24,0.3692,1.9345,-1.105,39,464,WR,USC,Penn State
+Jack Endries,65,61.706,0.9493,50,0.7692,32,0.4923,2.0558,-0.1236,59,641,TE,California,Texas
+CJ Daniels,61,28.158,0.4616,37,0.6066,24,0.3934,2.1205,-0.6144,44,500,WR,LSU,Miami
+Mikey Matthews,60,-9.162,-0.1527,26,0.4333,17,0.2833,1.7595,-0.9087,36,307,WR,California,UCLA
+Bauer Sharp,59,4.321,0.0732,26,0.4407,14,0.2373,2.0959,-0.556,44,372,TE,Oklahoma,LSU
+Squirrel White,56,8.807,0.1573,26,0.4643,15,0.2679,2.3039,-0.6281,34,381,WR,Tennessee,Florida State
+Isaiah Sategna III,56,2.642,0.0472,31,0.5536,18,0.3214,2.1208,-0.9351,39,532,WR,Arkansas,Oklahoma
+Traylon Ray,55,22.132,0.4024,30,0.5455,22,0.4,2.5197,-1.0092,30,463,WR,West Virginia,Ole Miss
+Barion Brown,52,9.873,0.1899,22,0.4231,17,0.3269,2.4182,-0.8925,30,373,WR,Kentucky,LSU
+Jonathan Brady,51,17.416,0.3415,30,0.5882,15,0.2941,1.9196,-0.3161,36,386,WR,California,Indiana
+Jahmal Edrine,51,6.461,0.1267,24,0.4706,17,0.3333,2.3291,-0.9745,25,390,WR,Purdue,Virginia
+Malik Benson,50,11.965,0.2393,21,0.42,14,0.28,2.6619,-0.7028,26,342,WR,Florida State,Oregon
+Randy Pittman Jr.,50,4.921,0.0984,28,0.56,16,0.32,1.7079,-0.659,33,434,TE,UCF,Florida State
+Duce Robinson,49,9.908,0.2022,23,0.4694,19,0.3878,2.3689,-1.1701,24,438,WR,USC,Florida State
+J. Michael Sturdivant,46,10.085,0.2192,21,0.4565,17,0.3696,1.9965,-0.8226,24,340,WR,UCLA,Florida
+Dylan Wade,45,12.311,0.2736,22,0.4889,15,0.3333,1.9204,-0.5498,30,379,TE,Maryland,UCF
+Jaron Tibbs,44,3.797,0.0863,19,0.4318,11,0.25,2.4074,-0.6874,27,370,WR,Purdue,Kansas State
+Brenen Thompson,43,-8.224,-0.1913,17,0.3953,10,0.2326,2.3037,-0.9473,19,230,WR,Oklahoma,Mississippi State
+Keelan Marion,42,6.21,0.1479,23,0.5476,17,0.4048,1.6886,-0.8998,24,346,WR,BYU,Miami
+Omari Evans,41,14.689,0.3583,18,0.439,12,0.2927,2.9947,-0.7327,22,460,WR,Penn State,Washington
+Mario Craver,41,11.236,0.274,16,0.3902,14,0.3415,2.5221,-0.8916,20,490,WR,Mississippi State,Texas A&M
+Donavon Greene,40,19.44,0.486,24,0.6,16,0.4,2.0026,-0.5251,23,359,WR,Wake Forest,Virginia Tech
+Tyler Morris,39,9.305,0.2386,20,0.5128,12,0.3077,2.1797,-0.6241,23,248,WR,Michigan,Indiana
+Logan Loya,39,38.917,0.9979,26,0.6667,23,0.5897,2.2493,-0.8011,29,348,WR,UCLA,Minnesota
+Ismael Cisse,37,5.409,0.1462,21,0.5676,15,0.4054,1.6327,-0.8673,26,241,WR,Stanford,Arkansas
+Cyrus Allen,36,16.65,0.4625,17,0.4722,14,0.3889,2.3008,-0.7073,18,269,WR,Texas A&M,Cincinnati
+Troy Stellato,35,8.951,0.2557,18,0.5143,14,0.4,1.8122,-0.7819,25,264,WR,Clemson,Kentucky
+CJ Williams,34,6.61,0.1944,14,0.4118,12,0.3529,2.2573,-0.9308,16,248,WR,Wisconsin,Stanford
+Joseph Manjack IV,33,14.785,0.448,16,0.4848,13,0.3939,2.4436,-0.8491,22,351,WR,Houston,TCU
+Luke Hasz,32,26.864,0.8395,21,0.6563,13,0.4063,2.3909,-0.222,27,327,TE,Arkansas,Ole Miss
+Dacari Collins,32,30.195,0.9436,24,0.75,16,0.5,2.1119,-0.2248,24,314,WR,NC State,Louisville
+Keyan Burnett,31,4.04,0.1303,16,0.5161,9,0.2903,2.1897,-0.7121,18,217,TE,Kansas,Arizona
+Preston Howard,30,2.004,0.0668,16,0.5333,10,0.3333,1.6812,-0.7404,24,188,TE,Maryland,Auburn
+Jaron Glover,29,16.272,0.5611,16,0.5517,12,0.4138,2.2484,-0.6299,16,205,WR,Michigan State,Mississippi State
+Hykeem Williams,29,0.763,0.0263,11,0.3793,7,0.2414,2.333,-0.7076,16,181,WR,Florida State,Colorado
+Jayden Thomas,28,1.173,0.0419,14,0.5,6,0.2143,1.8905,-0.4623,18,160,WR,Notre Dame,Virginia
+Javian Hester,28,5.634,0.2012,11,0.3929,8,0.2857,3.4092,-1.082,14,315,WR,Oklahoma,Kentucky
+Aziah Johnson,27,12.415,0.4598,15,0.5556,10,0.3704,2.6825,-0.8476,18,303,WR,Michigan State,North Carolina
+Tre Spivey,24,7.821,0.3259,12,0.5,9,0.375,2.0882,-0.7315,15,163,WR,Kansas State,Arizona
+Tiger Bachmeier,24,-7.704,-0.321,10,0.4167,6,0.25,1.8047,-1.0296,10,67,WR,Stanford,BYU
+Jaylen Lloyd,23,17.305,0.7524,13,0.5652,12,0.5217,2.3622,-1.0037,13,255,WR,Nebraska,Oklahoma State
+Tobias Merriweather,21,-0.608,-0.029,9,0.4286,6,0.2857,2.0645,-0.8663,11,125,WR,California,Utah
+Sterling Berkhalter,20,14.351,0.7175,14,0.7,9,0.45,1.8842,-0.237,13,216,WR,Cincinnati,Wake Forest
+Holden Staes,20,16.287,0.8143,13,0.65,9,0.45,2.165,-0.2907,15,131,TE,Tennessee,Indiana
+Cataurus Hicks,20,-0.124,-0.0062,7,0.35,5,0.25,2.2004,-0.7417,13,175,WR,Louisville,Pittsburgh
+Marcus Burke,19,-7.784,-0.4097,5,0.2632,4,0.2105,2.1098,-1.0815,7,69,WR,Florida,UCF
+Kobe Prentice,19,9.003,0.4738,11,0.5789,7,0.3684,1.784,-0.2904,12,182,WR,Alabama,Baylor
+Harry Lodge,19,-4.591,-0.2416,9,0.4737,6,0.3158,1.4078,-1.0029,13,113,TE,Georgia Tech,Wake Forest
+Drew Biber,18,-4.469,-0.2483,11,0.6111,3,0.1667,2.03,-0.7039,14,125,TE,Purdue,Minnesota
+Josiah Martin,18,2.923,0.1624,8,0.4444,6,0.3333,2.4008,-0.9568,12,112,WR,California,Oklahoma
+Shamar Rigby,18,-2.002,-0.1112,8,0.4444,6,0.3333,2.0185,-1.1761,11,113,WR,Purdue,Oklahoma State
+Jonah Wilson,18,-5.468,-0.3038,7,0.3889,3,0.1667,1.2557,-0.6157,9,58,WR,Houston,Texas A&M
+Jamari Johnson,18,11.561,0.6423,12,0.6667,10,0.5556,1.6033,-0.559,14,190,TE,Louisville,Oregon
+Hardley Gilmore IV,17,-7.495,-0.4409,6,0.3529,5,0.2941,2.4706,-1.654,7,164,WR,Nebraska,Kentucky
+Jalen Brown,16,-10.996,-0.6872,5,0.3125,4,0.25,2.39,-1.713,9,89,WR,Florida State,Arkansas

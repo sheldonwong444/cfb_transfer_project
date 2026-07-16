@@ -1,0 +1,13 @@
+# Python environment & cache
+__pycache__/
+*.pyc
+.env
+venv/
+.ipynb_checkpoints/
+
+# OS hidden files
+.DS_Store
+Thumbs.db
+
+# Large data files (Optional: add if raw files exceed GitHub's 100MB limit)
+# data/raw/*.csv
